@@ -1,0 +1,22 @@
+Navil Shad Hridom And my team
+
+
+
+teacher we used a lot of online tutorials and online resources. hope you will understand, because we are still learning teacher. thanks.
+
+
+Front End: Servlet, HTML, CSS
+Back End: Oracle
+
+1. User
+Can register
+Can login and logout
+Can send mails
+Can see inbox
+Can see sent mails
+Can see trash
+Can search other employees email id
+Can view and update profile
+2. Admin
+Can unauthorize the user
+can see current logged in members
